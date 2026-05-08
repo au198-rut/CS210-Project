@@ -9,3 +9,7 @@ Data_Compiling_Collection.ipynb was used to compile and clean all the data. It i
 To run Data_Analysis.ipynb, download flight.db and make sure it is in the same folder as Data_Analysis.ipynb, then run all cells in the notebook. Run time is approximately 8 minutes. 
 
 Be warned that all data files are very large and stored as lfs files.
+
+Raw Data Sources:
+https://www.transtats.bts.gov/
+https://power.larc.nasa.gov/api/pages/
